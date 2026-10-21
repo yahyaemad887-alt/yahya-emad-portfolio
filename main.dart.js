@@ -72611,7 +72611,7 @@ $0(){return this.a.a6m(this.b,this.c)},
 $S:0}
 A.DB.prototype={
 K(a){var s=null,r=A.kK(a,!0,t.wS),q=r.a?B.i:B.k,p=t.E,o=A.el(A.c([A.d4(s,s,B.o,s,s,B.hc,s,8,s,s,s,s,8),B.cE,B.PY],p),B.a_,B.P,B.M,0),n=A.bN("ABOUT ME & CONTACT",s,s,s,A.c_(s,s,q,s,s,s,s,s,s,s,s,32,s,s,B.ap,s,s,!0,s,2,s,s,s,s,s,s),s,s),m=r.a?B.i.bp(0.03):B.k.bp(0.03),l=A.cP(10),k=A.iK(r.a?B.bd:B.a8)
-l=A.d4(s,A.bN("I am Yahya Emad, a passionate self-taught mobile application developer specializing in Flutter and Dart, building high-performance cross-platform applications with clean architecture and extreme optimization.",s,s,s,A.c_(s,s,q.bp(0.85),s,s,s,s,s,s,s,s,11.5,s,s,B.a9,s,1.6,!0,s,s,s,s,s,s,s,s),s,s),B.o,s,s,new A.cm(m,s,k,l,s,s,B.X),s,s,s,B.eM,s,s,s)
+l=A.d4(s,A.bN("Junior Mobile Software Engineer with over 2 years of experience. I build fast mobile apps using Flutter and Dart. I also integrate Native Android with Kotlin. I make apps stable, clean, and run faster for a great user experience..",s,s,s,A.c_(s,s,q.bp(0.85),s,s,s,s,s,s,s,s,11.5,s,s,B.a9,s,1.6,!0,s,s,s,s,s,s,s,s),s,s),B.o,s,s,new A.cm(m,s,k,l,s,s,B.X),s,s,s,B.eM,s,s,s)
 k=A.i3(A.am4(B.CF,B.PU,new A.Ta(this),A.ai0(s,s,B.av,s,s,s,0,s,s,B.k,s,s,B.lq,s,new A.cF(A.cP(8),B.t),s,s,s,s,s)))
 m=q.bp(0.3)
 m=A.axA(s,s,s,s,s,s,s,s,s,q,s,s,B.lq,s,new A.cF(A.cP(8),B.t),new A.bv(m,1,B.F,-1),s,s,s,s)
