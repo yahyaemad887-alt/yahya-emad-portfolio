@@ -72620,7 +72620,7 @@ A.Ta.prototype={
 $0(){return this.a.c.$1("mailto:yahyaemad887@gmail.com")},
 $S:0}
 A.Tb.prototype={
-$0(){return this.a.c.$1("https://wa.me/201090122396")},
+$0(){return this.a.c.$1("https://wa.me/201553427179")},
 $S:0}
 A.IY.prototype={
 aJ(a,b){var s,r,q,p,o,n,m
